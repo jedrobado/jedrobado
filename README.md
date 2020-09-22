@@ -9,7 +9,6 @@
    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" height="50"></a>
   <a href="https://www.php.net/images/logos/new-php-logo.svg" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="50"></a>
    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" height="50"></a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="50"></a>
 </p>
 <h3>UI/UX Frameworks</h3>
 <p>
@@ -25,6 +24,13 @@
    <a href="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height="50"></a>
    <a href="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" target="_blank"><img src="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" height="50"></a>
    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" height="50"></a>
+</p>
+<h3>Social Media</h3>
+<p>
+   <a href="https://www.facebook.com/superjohnellee" target="_blank"><img src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250" target="_blank"><img src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" height="50"></a>
+  <a href="https://www.instagram.com/superjohnellee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" height="50"></a>
+   <a href="https://www.twitter.com/superjohnellee" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50"></a>
+   <a href="https://www.linkedin.com/in/john-ellee-robado-37bba4138/" target="_blank"><img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="50"></a>
 </p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/jedrobado" alt="profile views">

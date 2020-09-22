@@ -27,7 +27,7 @@
 </p>
 <h3>Social Media</h3>
 <p>
-   <a href="https://www.facebook.com/superjohnellee" target="_blank"><img src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250" target="_blank"><img src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" height="50"></a>
+   <a href="https://www.facebook.com/superjohnellee" target="_blank"><img src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250" target="_blank" height="50"></a>
   <a href="https://www.instagram.com/superjohnellee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" height="50"></a>
    <a href="https://www.twitter.com/superjohnellee" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50"></a>
    <a href="https://www.linkedin.com/in/john-ellee-robado-37bba4138/" target="_blank"><img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="50"></a>

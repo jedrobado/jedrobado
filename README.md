@@ -1,4 +1,4 @@
-<h1>Hi there 👋 John Ellee Robado here </h1>
+<h1>Hi there 👋 <br>John Ellee Robado here </h1>
 <h4>To work in an active professional environment in a growing company.<br>To utilize my knowledge and skills in programming and developing for the benefit of the company and myself.<br>Successful working in a team environment, as well as independently.</h4>
 <p>- 🎓 Bachelor of Science in Information Technology</p>
 <p>- 🔭 I’m currently working on Accentline Inc. as a RnD Specialist</p>

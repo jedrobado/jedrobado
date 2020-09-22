@@ -17,6 +17,15 @@
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="50"></a>
    <a href="https://colinstodd.com/images/posts/matcss-min.png" target="_blank"><img src="https://colinstodd.com/images/posts/matcss-min.png" height="50"></a>
 </p>
+<h3>Tools and Technologies</h3>
+<p>
+   <a href="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" target="_blank"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="50"></a>
+  <a href="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg" height="50"></a>
+   <a href="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" target="_blank"><img src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" height="50"></a>
+   <a href="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" target="_blank"><img src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" height="50"></a>
+   <a href="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" target="_blank"><img src="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" height="50"></a>
+</p>
+
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/jedrobado" alt="profile views">

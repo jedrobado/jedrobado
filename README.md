@@ -20,6 +20,7 @@
 <p>
    <a href="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" target="_blank"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="50"></a>
    <a href="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" target="_blank"><img src="https://i.pinimg.com/originals/c7/28/0c/c7280cbc0bdd4608d6c09cd89ae9c4ca.png" height="50"></a>
+   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" height="50"></a>
   <a href="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg" height="50"></a>
    <a href="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" height="50"></a>
    <a href="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" target="_blank"><img src="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" height="50"></a>

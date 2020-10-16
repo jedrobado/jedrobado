@@ -41,3 +41,6 @@
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=jedrobado" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=jedrobado"></a>
 </p>
+<p>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jedrobado&layout=compact" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedrobado&layout=compact"></a>
+</p>

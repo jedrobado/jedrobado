@@ -15,6 +15,12 @@
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="50"></a>
    <a href="https://colinstodd.com/images/posts/matcss-min.png" target="_blank"><img src="https://colinstodd.com/images/posts/matcss-min.png" height="50"></a>
 </p>
+<h3>Wordpress Development</h3>
+<p>
+   <a href="https://elementor.com/pages/wp-content/uploads/sites/5/2020/01/elementor_logo_gradient-01.png" target="_blank"><img src="https://elementor.com/pages/wp-content/uploads/sites/5/2020/01/elementor_logo_gradient-01.png" height="50"></a>
+  <a href="https://wpbakery.com/wp-content/uploads/2017/10/wpb-logo.png" target="_blank"><img src="https://wpbakery.com/wp-content/uploads/2017/10/wpb-logo.png" height="50"></a>
+   <a href="https://colinstodd.com/images/posts/matcss-min.png" target="_blank"><img src="https://colinstodd.com/images/posts/matcss-min.png" height="50"></a>
+</p>
 <h3>Tools and Technologies</h3>
 <p>
    <a href="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" target="_blank"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="50"></a>

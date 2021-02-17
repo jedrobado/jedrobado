@@ -19,7 +19,6 @@
 <p>
    <a href="https://elementor.com/pages/wp-content/uploads/sites/5/2020/01/elementor_logo_gradient-01.png" target="_blank"><img src="https://elementor.com/pages/wp-content/uploads/sites/5/2020/01/elementor_logo_gradient-01.png" height="50"></a>
   <a href="https://wpbakery.com/wp-content/uploads/2017/10/wpb-logo.png" target="_blank"><img src="https://wpbakery.com/wp-content/uploads/2017/10/wpb-logo.png" height="50"></a>
-   <a href="https://colinstodd.com/images/posts/matcss-min.png" target="_blank"><img src="https://colinstodd.com/images/posts/matcss-min.png" height="50"></a>
 </p>
 <h3>Tools and Technologies</h3>
 <p>

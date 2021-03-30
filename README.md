@@ -1,7 +1,7 @@
 <h1>Hi there 👋 <br>John Ellee Robado here </h1>
 <h4>To work in an active professional environment in a growing company.<br>To utilize my knowledge and skills in programming and developing for the benefit of the company and myself.<br>Successful working in a team environment, as well as independently.</h4>
 <p>- 🎓 Bachelor of Science in Information Technology</p>
-<p>- 🌱 I’m currently learning React,Node,Python</p>
+<p>- 🌱 I’m currently learning Vue JS and Laravel</p>
 <p>- 📫 How to reach me: bachrobado@gmail.com</p>
 <h3>Programming Languages</h3>
 <p>

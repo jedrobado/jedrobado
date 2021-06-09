@@ -31,14 +31,6 @@
    <a href="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" target="_blank"><img src="https://ist.mit.edu/sites/default/files/styles/news_image_node/public/news_images/OfficeLogoOrange740.2.png?itok=7xAZzVdk" height="50"></a>
    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_HTTP_server_logo_%282016%29.svg/1200px-Apache_HTTP_server_logo_%282016%29.svg.png" height="50"></a>
 </p>
-<h3>Social Media</h3>
-<p>
-   <a href="https://www.facebook.com/superjohnellee" target="_blank"><img src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=250&h=250" target="_blank" height="50"></a>
-  <a href="https://www.instagram.com/superjohnellee" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" height="50"></a>
-   <a href="https://www.twitter.com/superjohnellee" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50"></a>
-   <a href="https://www.linkedin.com/in/johnelleerobado" target="_blank"><img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="50"></a>
-   <a href="https://www.youtube.com/channel/UCQuPqMlN8plItC5RKWnhmJA?sub_confirmation=1" target="_blank"><img src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" height="50"></a>
-</p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/jedrobado" alt="profile views">
 </p>

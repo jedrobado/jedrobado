@@ -2,7 +2,6 @@
 <h4>To work in an active professional environment in a growing company.<br>To utilize my knowledge and skills in programming and developing for the benefit of the company and myself.<br>Successful working in a team environment, as well as independently.</h4>
 <p>- 🎓 Bachelor of Science in Information Technology</p>
 <p>- 🌱 I’m currently learning React,Vue and Python,Node,Laravel</p>
-<p>- 📫 How to reach me: bachrobado@gmail.com</p>
 <h3>Programming Languages</h3>
 <p>
    <a href="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" target="_blank"><img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" height="50"></a>
